@@ -227,7 +227,7 @@ A suspect LDAP query was executed, suggesting potential reconnaissance activity.
   <li>If the account appears to have been compromised, consider resetting its credentials and adjusting permissions to limit further damage.</li>
 </ul>
 
-### 4.Implement Enhan ced Monitoring:
+### 4.Implement Enhanced Monitoring:
 
 <ul>
   <li>Deploy Sysmon to increase visibility into LDAP activities and log detailed events. Ensure all future LDAP queries are logged for closer inspection.</li>
